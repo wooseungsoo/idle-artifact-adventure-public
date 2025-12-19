@@ -71,6 +71,6 @@ Unity로 제작한 **방치형 RPG 프로토타입**입니다.
   핵심 전투 루프 및 구조 파악이 빠릅니다.
 - UI 흐름, 수치 설계, 기획 의도 상세는 포트폴리오 PDF에서 보완합니다.
 
-## Demo / Reference
+## Demo
 - ▶ Gameplay Video: https://www.youtube.com/watch?v=SzEPppy1-Kk
 - ▶ Portfolio PDF: (이력서에 첨부된 PDF 참조)
