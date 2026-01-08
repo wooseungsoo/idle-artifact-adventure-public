@@ -73,4 +73,4 @@ Unity로 제작한 **방치형 RPG 프로토타입**입니다.
 
 ## Demo
 - ▶ Gameplay Video: https://www.youtube.com/watch?v=SzEPppy1-Kk
-- ▶ Portfolio PDF: (이력서에 첨부된 PDF 참조)
+- ▶ Portfolio PDF: (https://drive.google.com/file/d/1g1OMRl3iKKtB-uqixH5Up4l6B37toC2W/view)
